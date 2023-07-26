@@ -1,4 +1,8 @@
-# ijkplayer
+# Libijkplayer
+
+> fork源码
+
+##  **已经完成gradle8.0的编译**
 
  Platform | Build Status
  -------- | ------------
